@@ -1,0 +1,220 @@
+like_show_in_attribute_as_in_n 0.16011462704
+do_not_like_n_show_in_attribute_as_in_m 0.771183382254
+sort_by_price 0.245552669752
+show_all_orientations_of_n 1.65285262685
+show_similar_to_n 1.17521661812
+show_in_attribute_as_in_n_earlier 0.0725989925781
+ask_what_other_synset_suited_for_style 0.359843559676
+ask_if_attribute_synset_will_go_with_attribute_synset 0.0178812952781
+ask_attribute_in_synset_n 0.680633063215
+ask_if_synset_attribute_in_n_will_go_with_synset 0.166300714832
+repeat-question 6.48488750424
+ask_what_will_go_with_synset_in_n 0.160231345677
+show_similar_to_what_celebrity_endorses 0.145431422431
+ask_attributes_in_n 0.680422969668
+like_n_show_in_attribute_as_in_m_earlier 0.0707781818318
+do_not_like_n_show_in_attribute_as_in_m_earlier 0.145501453614
+do_not_like_show_in_attribute_as_in_ns_earlier 0.0235071336097
+show_different_orientation_of_n 1.65005137954
+sort_by_bestSellerRanking 0.345090323885
+do_not_like_show_more 0.135463650782
+show_in_attribute_as_in_n 0.731405670565
+do_not_like_n_show_in_attribute_as_in_custom_image 0.678999002289
+like_n_show_in_attribute_as_in_custom_image 0.544935975159
+do_not_like_show_in_non_mentioned_attribute_value 0.13359615258
+ask_if_synset_suited_for 0.424178872713
+ask_if_synset_attribute_in_n_will_go_with_synset_attribute 0.163149311617
+ask_what_will_go_with_synset 0.16340609262
+question 4.93516746557
+ask_if_attribute_synset_will_go_with_any 0.168448337763
+show_in_attribute_as_in_ns_earlier 0.0715251811123
+user-info 1.40454539725
+what_other_synsets_endorsed_by_celebrity 0.323590750842
+do_not_like_show_in_attribute_value 0.132779122117
+ask_if_n_will_go_with_synset_attribute_in_image 0.0901301319434
+ask_if_synset_attributes_in_n_will_go_with_image 0.16387296717
+like_show_in_attribute_as_in_ns 0.161468563236
+is_attribute_in_synset_n 0.681216656403
+answer 51.7821301898
+show_similar_to_n_in_attribute_complement_value 1.17458633748
+ask_synset_attribute_will_go_with_which 0.173467239179
+do_not_like_show_in_mentioned_attribute_complement_value 0.0993975917677
+ask_what_will_go_with_any 0.163312717709
+show_in_my_size 0.0215462604983
+ask_if_n_will_go_with_synset_attribute 0.173350520542
+ask_what_will_go_with_synset_attribute_in_n 0.0774078004466
+ask_what_is_synset_suited_for 0.430668428962
+exit-message 2.23600228395
+ask_if_n_will_go_with_synset 0.134249776951
+ask_if_synset_attributes_in_n_will_go_with_synset_attribute_in_image 0.167701338483
+show_similar_to_n_in_attribute_as_in_m_earlier 0.072505617668
+do_not_like_attribute_in_n_show_more 0.895862230923
+show_in_attribute_similar_to_what_celebrity_endorses 0.146738671172
+sort_by_reviewRating 0.232106682702
+ask_if_synset_will_go_with_synset 0.169732242777
+do_not_like_show_in_attribute_as_in_ns 0.133642840035
+which_celebrity_endorses_n 1.00522759434
+ask_if_ns_suited_for 0.425766246184
+ask_if_n_will_go_with_image 0.168448337763
+ask_if_n_suited_for 0.428660868396
+ask_attribute_in_ns 0.59465811477
+does_celebrity_endorse_n 1.11790776707
+ask_if_synset_attribute_in_n_will_go_with_image 0.0965029695556
+like_show_in_attribute_as_in_n_earlier 0.0712450563821
+do_not_like_n_show_in_attribute_complement_value 0.900997850976
+like_show_in_attribute_as_in_ns_earlier 0.0695409642734
+do_not_like_show_in_attribute_as_in_n 0.132989215665
+switch-synset 0.373032765723
+like_n_show_in_non_mentioned_attribute_value 0.158784034571
+greeting 4.92267857135
+do_not_like_show_in_attribute_as_in_n_earlier 0.145991671892
+ask_what_will_go_with_n 0.159974564674
+ask_if_synset_in_n_suited_for 0.433539707447
+ask_what_is_ns_suited_for 0.427423650838
+buy_n 1.3433381437
+ask_if_attribute_synset_will_go_with_synset 0.169008587224
+ask_attribute_in_n 0.68021287612
+ask_if_synset_will_go_with_any 0.169825617687
+like_attribute_in_n_do_not_like_attribute_show_more 0.717306059145
+ask_synset_will_go_with_which 0.169335399409
+like_n_show_in_attribute_complement_value 0.717236027962
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+show_similar_to 4.41176470588
+set([u'show_similar_to_n_in_attribute_complement_value', u'show_similar_to_n'])
+
+switch-synset 1.47058823529
+None
+
+question 10.2941176471
+None
+
+greeting 5.88235294118
+None
+
+exit-message 5.88235294118
+None
+
+repeat-question 7.35294117647
+None
+
+suited_for 5.88235294118
+set([u'ask_if_n_suited_for', u'ask_if_synset_in_n_suited_for', u'ask_what_other_synset_suited_for_style'])
+
+like_n_show_result 1.47058823529
+set([u'like_n_show_in_attribute_complement_value'])
+
+answer 47.0588235294
+None
+
+show_orientation 4.41176470588
+set([u'show_all_orientations_of_n', u'show_different_orientation_of_n'])
+
+celebrity 1.47058823529
+set([u'which_celebrity_endorses_n'])
+
+go_with 2.94117647059
+set([u'ask_if_synset_will_go_with_any', u'ask_if_synset_attribute_in_n_will_go_with_image'])
+
+do_not_like_n_show_result 1.47058823529
+set([u'do_not_like_n_show_in_attribute_as_in_m'])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+repeat-question 6.48488750424
+None
+
+filter_results 0.0215462604983
+set([u'show_in_my_size'])
+
+like_earlier_show_result 0.428193993846
+set([u'like_show_in_attribute_as_in_n_earlier', u'show_in_attribute_as_in_n_earlier', u'like_show_in_attribute_as_in_ns_earlier', u'show_in_attribute_as_in_ns_earlier', u'show_similar_to_n_in_attribute_as_in_m_earlier', u'like_n_show_in_attribute_as_in_m_earlier'])
+
+do_not_like_earlier_show_result 0.315000259115
+set([u'do_not_like_n_show_in_attribute_as_in_m_earlier', u'do_not_like_show_in_attribute_as_in_ns_earlier', u'do_not_like_show_in_attribute_as_in_n_earlier'])
+
+question 4.93516746557
+None
+
+user-info 1.40454539725
+None
+
+like_n_show_result 2.71088373283
+set([u'show_in_attribute_as_in_n', u'like_n_show_in_attribute_as_in_custom_image', u'like_attribute_in_n_do_not_like_attribute_show_more', u'like_n_show_in_attribute_complement_value'])
+
+answer 51.7821301898
+None
+
+do_not_like_n_show_result 3.24704246644
+set([u'do_not_like_n_show_in_attribute_as_in_m', u'do_not_like_n_show_in_attribute_as_in_custom_image', u'do_not_like_n_show_in_attribute_complement_value', u'do_not_like_attribute_in_n_show_more'])
+
+buy 1.3433381437
+set([u'buy_n'])
+
+show_similar_to 2.3498029556
+set([u'show_similar_to_n_in_attribute_complement_value', u'show_similar_to_n'])
+
+sort_results 0.822749676339
+set([u'sort_by_reviewRating', u'sort_by_price', u'sort_by_bestSellerRanking'])
+
+exit-message 2.23600228395
+None
+
+do_not_like_show_result 0.767868572947
+set([u'do_not_like_show_in_attribute_as_in_ns', u'do_not_like_show_in_non_mentioned_attribute_value', u'do_not_like_show_in_attribute_value', u'do_not_like_show_more', u'do_not_like_show_in_attribute_as_in_n', u'do_not_like_show_in_mentioned_attribute_complement_value'])
+
+like_show_result 0.77253731845
+set([u'like_show_in_attribute_as_in_n', u'show_similar_to_what_celebrity_endorses', u'like_n_show_in_non_mentioned_attribute_value', u'like_show_in_attribute_as_in_ns', u'show_in_attribute_similar_to_what_celebrity_endorses'])
+
+ask_attribute 3.31714368018
+set([u'ask_attribute_in_ns', u'ask_attribute_in_synset_n', u'is_attribute_in_synset_n', u'ask_attributes_in_n', u'ask_attribute_in_n'])
+
+switch-synset 0.373032765723
+None
+
+greeting 4.92267857135
+None
+
+suited_for 2.93008133422
+set([u'ask_if_n_suited_for', u'ask_what_other_synset_suited_for_style', u'ask_what_is_synset_suited_for', u'ask_if_synset_suited_for', u'ask_if_synset_in_n_suited_for', u'ask_what_is_ns_suited_for', u'ask_if_ns_suited_for'])
+
+show_orientation 3.30290400639
+set([u'show_all_orientations_of_n', u'show_different_orientation_of_n'])
+
+celebrity 2.44672611225
+set([u'which_celebrity_endorses_n', u'does_celebrity_endorse_n', u'what_other_synsets_endorsed_by_celebrity'])
+
+go_with 3.0857373093
+set([u'ask_if_n_will_go_with_synset', u'ask_what_will_go_with_any', u'ask_if_synset_attribute_in_n_will_go_with_image', u'ask_synset_attribute_will_go_with_which', u'ask_what_will_go_with_synset', u'ask_if_attribute_synset_will_go_with_attribute_synset', u'ask_if_attribute_synset_will_go_with_any', u'ask_what_will_go_with_n', u'ask_what_will_go_with_synset_in_n', u'ask_if_synset_attribute_in_n_will_go_with_synset_attribute', u'ask_if_synset_attribute_in_n_will_go_with_synset', u'ask_if_n_will_go_with_synset_attribute_in_image', u'ask_what_will_go_with_synset_attribute_in_n', u'ask_if_synset_attributes_in_n_will_go_with_synset_attribute_in_image', u'ask_if_synset_will_go_with_synset', u'ask_if_synset_will_go_with_any', u'ask_if_n_will_go_with_synset_attribute', u'ask_synset_will_go_with_which', u'ask_if_attribute_synset_will_go_with_synset', u'ask_if_synset_attributes_in_n_will_go_with_image', u'ask_if_n_will_go_with_image'])
